@@ -7,3 +7,11 @@ C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Mes
 C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Messages\obj\Debug\netstandard2.0\Saga.Messages.dll
 C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Messages\obj\Debug\netstandard2.0\Saga.Messages.pdb
 C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Messages\obj\Debug\netstandard2.0\Saga.Messages.csprojResolveAssemblyReference.cache
+C:\dev\repros\NServiceBus.Saga\Saga.Messages\bin\Debug\netstandard2.0\Saga.Messages.deps.json
+C:\dev\repros\NServiceBus.Saga\Saga.Messages\bin\Debug\netstandard2.0\Saga.Messages.dll
+C:\dev\repros\NServiceBus.Saga\Saga.Messages\bin\Debug\netstandard2.0\Saga.Messages.pdb
+C:\dev\repros\NServiceBus.Saga\Saga.Messages\obj\Debug\netstandard2.0\Saga.Messages.csproj.CoreCompileInputs.cache
+C:\dev\repros\NServiceBus.Saga\Saga.Messages\obj\Debug\netstandard2.0\Saga.Messages.AssemblyInfoInputs.cache
+C:\dev\repros\NServiceBus.Saga\Saga.Messages\obj\Debug\netstandard2.0\Saga.Messages.AssemblyInfo.cs
+C:\dev\repros\NServiceBus.Saga\Saga.Messages\obj\Debug\netstandard2.0\Saga.Messages.dll
+C:\dev\repros\NServiceBus.Saga\Saga.Messages\obj\Debug\netstandard2.0\Saga.Messages.pdb

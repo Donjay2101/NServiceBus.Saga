@@ -1660,7 +1660,7 @@
       ]
     },
     "NServiceBus/7.0.0-beta0008": {
-      "sha512": "T2UkyvYktZ5EJedgU9sHbphtOLWANG4/lpNl/+REYu9a776fFD4aV6h0Pd+Ww1DDGPZD/wZVza3/n6Xx33ig9A==",
+      "sha512": "kuDOvJN60aUt6zZfjDqZPWCfyf9BOtgDNgAovgGuWwV0DjmD/AjktSbxLnL0PwwNiIcsFZwNd71TZAmW3ti4vw==",
       "type": "package",
       "path": "nservicebus/7.0.0-beta0008",
       "files": [
@@ -1676,7 +1676,7 @@
       ]
     },
     "NServiceBus.RabbitMQ/5.0.0-beta0031": {
-      "sha512": "U3uu6LPqUzaZb8+JjmovW+FSG/S9rWtHKB4YbMh4+6qK0AkeWJdBS/HpsbWXZM3aNJoRRvAa1NI03rmLY0GWfw==",
+      "sha512": "lbUE7AJ6r/T8Hi/4R0JGQdEc00S/1lVYbh2XfG5Cpif34zIw22hMWdzRQi0aPNB8468KOXTQaxzlZFJOfcaEuQ==",
       "type": "package",
       "path": "nservicebus.rabbitmq/5.0.0-beta0031",
       "files": [
@@ -4185,7 +4185,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\deepak_s_mehta\\.nuget\\packages\\": {},
+    "C:\\Users\\andreas.ohlund\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -4194,17 +4194,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\deepak_s_mehta\\Documents\\Visual Studio 2017\\Projects\\Saga.Test\\Saga.Order\\Saga.planning.csproj",
+      "projectUniqueName": "C:\\dev\\repros\\NServiceBus.Saga\\Saga.Order\\Saga.planning.csproj",
       "projectName": "Saga.planning",
-      "projectPath": "C:\\Users\\deepak_s_mehta\\Documents\\Visual Studio 2017\\Projects\\Saga.Test\\Saga.Order\\Saga.planning.csproj",
-      "packagesPath": "C:\\Users\\deepak_s_mehta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\deepak_s_mehta\\Documents\\Visual Studio 2017\\Projects\\Saga.Test\\Saga.Order\\obj\\",
+      "projectPath": "C:\\dev\\repros\\NServiceBus.Saga\\Saga.Order\\Saga.planning.csproj",
+      "packagesPath": "C:\\Users\\andreas.ohlund\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\repros\\NServiceBus.Saga\\Saga.Order\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\deepak_s_mehta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\andreas.ohlund\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4212,13 +4212,16 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Users\\andreas.ohlund\\.dotnet\\NuGetFallbackFolder": {},
+        "C:\\dev\\temp_nuget": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/particular/api/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\deepak_s_mehta\\Documents\\Visual Studio 2017\\Projects\\Saga.Test\\Saga.Messages\\Saga.Messages.csproj": {
-              "projectPath": "C:\\Users\\deepak_s_mehta\\Documents\\Visual Studio 2017\\Projects\\Saga.Test\\Saga.Messages\\Saga.Messages.csproj"
+            "C:\\dev\\repros\\NServiceBus.Saga\\Saga.Messages\\Saga.Messages.csproj": {
+              "projectPath": "C:\\dev\\repros\\NServiceBus.Saga\\Saga.Messages\\Saga.Messages.csproj"
             }
           }
         }

@@ -7,11 +7,11 @@ namespace Saga.planning
 {
     class PlanOrderHandler : IHandleMessages<OrderPlanCommand>
     {
-        public async Task Handle(OrderPlanCommand message, IMessageHandlerContext context)
+        public Task Handle(OrderPlanCommand message, IMessageHandlerContext context)
         {
             Console.WriteLine($"OrderId {message.OrderId} planned");
             //Do planning
-            await context.Reply<OrderPlanned>(msg => { }).ConfigureAwait(false);
+            return context.Reply<OrderPlanned>(msg => { });
         }
     }
 }

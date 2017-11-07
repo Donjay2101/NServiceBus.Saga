@@ -1,0 +1,18 @@
+﻿2017-11-07 09:37:20.560 INFO  DefaultFactory Logging to 'C:\dev\repros\NServiceBus.Saga\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-07 09:37:20.885 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-08-15'.
+
+2017-11-07 09:41:26.124 INFO  DefaultFactory Logging to 'C:\dev\repros\NServiceBus.Saga\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-07 09:41:26.425 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-08-15'.
+
+2017-11-07 09:42:09.286 INFO  DefaultFactory Logging to 'C:\dev\repros\NServiceBus.Saga\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-07 09:42:09.952 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-08-15'.
+
+2017-11-07 09:43:06.924 INFO  DefaultFactory Logging to 'C:\dev\repros\NServiceBus.Saga\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-07 09:43:07.170 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-08-15'.
+
+2017-11-07 09:44:33.545 INFO  DefaultFactory Logging to 'C:\dev\repros\NServiceBus.Saga\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-07 09:44:33.890 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-08-15'.
+
+2017-11-07 09:50:50.801 INFO  DefaultFactory Logging to 'C:\dev\repros\NServiceBus.Saga\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-07 09:50:51.115 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-08-15'.
+

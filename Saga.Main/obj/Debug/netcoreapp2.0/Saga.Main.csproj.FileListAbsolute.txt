@@ -11,3 +11,16 @@ C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Mai
 C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Main\obj\Debug\netcoreapp2.0\Saga.Main.pdb
 C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Main\bin\Debug\netcoreapp2.0\Saga.Messages.dll
 C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Main\bin\Debug\netcoreapp2.0\Saga.Messages.pdb
+C:\dev\repros\NServiceBus.Saga\Saga.Main\bin\Debug\netcoreapp2.0\Saga.Main.deps.json
+C:\dev\repros\NServiceBus.Saga\Saga.Main\bin\Debug\netcoreapp2.0\Saga.Main.runtimeconfig.json
+C:\dev\repros\NServiceBus.Saga\Saga.Main\bin\Debug\netcoreapp2.0\Saga.Main.runtimeconfig.dev.json
+C:\dev\repros\NServiceBus.Saga\Saga.Main\bin\Debug\netcoreapp2.0\Saga.Main.dll
+C:\dev\repros\NServiceBus.Saga\Saga.Main\bin\Debug\netcoreapp2.0\Saga.Main.pdb
+C:\dev\repros\NServiceBus.Saga\Saga.Main\bin\Debug\netcoreapp2.0\Saga.Messages.dll
+C:\dev\repros\NServiceBus.Saga\Saga.Main\bin\Debug\netcoreapp2.0\Saga.Messages.pdb
+C:\dev\repros\NServiceBus.Saga\Saga.Main\obj\Debug\netcoreapp2.0\Saga.Main.csprojResolveAssemblyReference.cache
+C:\dev\repros\NServiceBus.Saga\Saga.Main\obj\Debug\netcoreapp2.0\Saga.Main.csproj.CoreCompileInputs.cache
+C:\dev\repros\NServiceBus.Saga\Saga.Main\obj\Debug\netcoreapp2.0\Saga.Main.AssemblyInfoInputs.cache
+C:\dev\repros\NServiceBus.Saga\Saga.Main\obj\Debug\netcoreapp2.0\Saga.Main.AssemblyInfo.cs
+C:\dev\repros\NServiceBus.Saga\Saga.Main\obj\Debug\netcoreapp2.0\Saga.Main.dll
+C:\dev\repros\NServiceBus.Saga\Saga.Main\obj\Debug\netcoreapp2.0\Saga.Main.pdb
