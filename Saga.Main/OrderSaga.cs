@@ -1,16 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
 using NServiceBus;
 using Saga.Messages;
 
 namespace Saga.Main
 {
-    public class OrderSaga:Saga<SagaData>,
+    public class OrderSaga : Saga<SagaData>,
         IAmStartedByMessages<PlaceOrderCommand>,
         IHandleMessages<OrderPlanned>,
-        IHandleMessages<IOrderDispatchedMessage>  ,
+        IHandleMessages<IOrderDispatchedMessage>,
         IHandleMessages<OrderProcessedMessage>
     {
         protected override void ConfigureHowToFindSaga(SagaPropertyMapper<SagaData> mapper)
@@ -24,75 +22,44 @@ namespace Saga.Main
 
         public async Task Handle(PlaceOrderCommand message, IMessageHandlerContext context)
         {
-            Data.OrderId = message.OrderId;
+            Console.WriteLine("Order has been placed......");
+
             Data.AddressFrom = message.AddressFrom;
             Data.AddressTo = message.AddressTo;
             Data.Price = message.Price;
-            Data.Weight = message.Weight;     
-            SendOptions options = new SendOptions();
+            Data.Weight = message.Weight;
+
+            var options = new SendOptions();
             options.SetDestination("Saga.Planning");
-            await context.Send(new OrderPlanCommand() {AddressTo = Data.AddressTo, OrderId = Data.OrderId},options)
+
+            await context.Send(new OrderPlanCommand { AddressTo = Data.AddressTo, OrderId = Data.OrderId }, options)
                 .ConfigureAwait(false);
         }
-        public async Task Handle(OrderPlanned message,IMessageHandlerContext context)
+        public async Task Handle(OrderPlanned message, IMessageHandlerContext context)
         {
-            try
+            Console.WriteLine("Order has been planned......");
+
+            var options = new SendOptions();
+            options.SetDestination("Saga.Dispatcher");
+            await context.Send(new DispatchOrderCommand
             {
-                SendOptions options = new SendOptions();
-                options.SetDestination("Saga.Dispatcher");
-                await context.Send(new DispatchOrderCommand
-                {
-                    AddressTo = Data.AddressTo,
-                    Weight = Data.Weight
-                }, options);
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e);
-                throw;
-            }
-           
+                AddressTo = Data.AddressTo,
+                Weight = Data.Weight
+            }, options);
         }
 
 
         public async Task Handle(IOrderDispatchedMessage message, IMessageHandlerContext context)
         {
-            try
-            {
-                await Task.Run(() =>
-                {
-                    Console.WriteLine("Order has been dispathced......");
-                     ReplyToOriginator(context, new OrderProcessedMessage() { IsSuccess = true }).ConfigureAwait(false);
-                    MarkAsComplete();
-                });
-               
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e);
-                throw;
-            }
-           
+            Console.WriteLine("Order has been dispatched......");
+            await ReplyToOriginator(context, new OrderProcessedMessage { IsSuccess = true }).ConfigureAwait(false);
+            MarkAsComplete();
         }
 
         public Task Handle(OrderProcessedMessage message, IMessageHandlerContext context)
         {
-            try
-            {
-                 Task.Run(() =>
-                {
-                    Console.WriteLine("Order is Processed.");
-                });
-                return Task.CompletedTask;
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e);
-                throw;
-            }
-
+            Console.WriteLine("Order is Processed.");
+            return Task.CompletedTask;
         }
-
-
     }
 }

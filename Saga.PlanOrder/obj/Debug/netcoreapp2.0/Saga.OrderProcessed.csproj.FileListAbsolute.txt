@@ -11,3 +11,16 @@ C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Pla
 C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.PlanOrder\bin\Debug\netcoreapp2.0\Saga.Messages.dll
 C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.PlanOrder\bin\Debug\netcoreapp2.0\Saga.Messages.pdb
 C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.PlanOrder\obj\Debug\netcoreapp2.0\Saga.OrderProcessed.csprojResolveAssemblyReference.cache
+C:\dev\repros\NServiceBus.Saga\Saga.PlanOrder\bin\Debug\netcoreapp2.0\Saga.OrderProcessed.deps.json
+C:\dev\repros\NServiceBus.Saga\Saga.PlanOrder\bin\Debug\netcoreapp2.0\Saga.OrderProcessed.runtimeconfig.json
+C:\dev\repros\NServiceBus.Saga\Saga.PlanOrder\bin\Debug\netcoreapp2.0\Saga.OrderProcessed.runtimeconfig.dev.json
+C:\dev\repros\NServiceBus.Saga\Saga.PlanOrder\bin\Debug\netcoreapp2.0\Saga.OrderProcessed.dll
+C:\dev\repros\NServiceBus.Saga\Saga.PlanOrder\bin\Debug\netcoreapp2.0\Saga.OrderProcessed.pdb
+C:\dev\repros\NServiceBus.Saga\Saga.PlanOrder\bin\Debug\netcoreapp2.0\Saga.Messages.dll
+C:\dev\repros\NServiceBus.Saga\Saga.PlanOrder\bin\Debug\netcoreapp2.0\Saga.Messages.pdb
+C:\dev\repros\NServiceBus.Saga\Saga.PlanOrder\obj\Debug\netcoreapp2.0\Saga.OrderProcessed.csprojResolveAssemblyReference.cache
+C:\dev\repros\NServiceBus.Saga\Saga.PlanOrder\obj\Debug\netcoreapp2.0\Saga.OrderProcessed.csproj.CoreCompileInputs.cache
+C:\dev\repros\NServiceBus.Saga\Saga.PlanOrder\obj\Debug\netcoreapp2.0\Saga.OrderProcessed.AssemblyInfoInputs.cache
+C:\dev\repros\NServiceBus.Saga\Saga.PlanOrder\obj\Debug\netcoreapp2.0\Saga.OrderProcessed.AssemblyInfo.cs
+C:\dev\repros\NServiceBus.Saga\Saga.PlanOrder\obj\Debug\netcoreapp2.0\Saga.OrderProcessed.dll
+C:\dev\repros\NServiceBus.Saga\Saga.PlanOrder\obj\Debug\netcoreapp2.0\Saga.OrderProcessed.pdb

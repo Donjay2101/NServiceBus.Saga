@@ -1,0 +1,21 @@
+﻿2017-11-07 09:37:20.551 INFO  DefaultFactory Logging to 'C:\dev\repros\NServiceBus.Saga\Saga.Main\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-07 09:37:20.880 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-08-15'.
+
+2017-11-07 09:41:26.121 INFO  DefaultFactory Logging to 'C:\dev\repros\NServiceBus.Saga\Saga.Main\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-07 09:41:26.421 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-08-15'.
+
+2017-11-07 09:42:09.291 INFO  DefaultFactory Logging to 'C:\dev\repros\NServiceBus.Saga\Saga.Main\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-07 09:42:09.562 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-08-15'.
+
+2017-11-07 09:42:56.133 INFO  DefaultFactory Logging to 'C:\dev\repros\NServiceBus.Saga\Saga.Main\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-07 09:42:56.338 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-08-15'.
+
+2017-11-07 09:43:06.185 INFO  DefaultFactory Logging to 'C:\dev\repros\NServiceBus.Saga\Saga.Main\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-07 09:43:06.884 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-08-15'.
+
+2017-11-07 09:44:33.509 INFO  DefaultFactory Logging to 'C:\dev\repros\NServiceBus.Saga\Saga.Main\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-07 09:44:33.821 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-08-15'.
+
+2017-11-07 09:50:50.801 INFO  DefaultFactory Logging to 'C:\dev\repros\NServiceBus.Saga\Saga.Main\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-07 09:50:51.107 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-08-15'.
+

@@ -11,3 +11,16 @@ C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Dis
 C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.DispatchOrder\obj\Debug\netcoreapp2.0\Saga.DispatchOrder.pdb
 C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.DispatchOrder\bin\Debug\netcoreapp2.0\Saga.Messages.dll
 C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.DispatchOrder\bin\Debug\netcoreapp2.0\Saga.Messages.pdb
+C:\dev\repros\NServiceBus.Saga\Saga.DispatchOrder\bin\Debug\netcoreapp2.0\Saga.DispatchOrder.deps.json
+C:\dev\repros\NServiceBus.Saga\Saga.DispatchOrder\bin\Debug\netcoreapp2.0\Saga.DispatchOrder.runtimeconfig.json
+C:\dev\repros\NServiceBus.Saga\Saga.DispatchOrder\bin\Debug\netcoreapp2.0\Saga.DispatchOrder.runtimeconfig.dev.json
+C:\dev\repros\NServiceBus.Saga\Saga.DispatchOrder\bin\Debug\netcoreapp2.0\Saga.DispatchOrder.dll
+C:\dev\repros\NServiceBus.Saga\Saga.DispatchOrder\bin\Debug\netcoreapp2.0\Saga.DispatchOrder.pdb
+C:\dev\repros\NServiceBus.Saga\Saga.DispatchOrder\bin\Debug\netcoreapp2.0\Saga.Messages.dll
+C:\dev\repros\NServiceBus.Saga\Saga.DispatchOrder\bin\Debug\netcoreapp2.0\Saga.Messages.pdb
+C:\dev\repros\NServiceBus.Saga\Saga.DispatchOrder\obj\Debug\netcoreapp2.0\Saga.DispatchOrder.csprojResolveAssemblyReference.cache
+C:\dev\repros\NServiceBus.Saga\Saga.DispatchOrder\obj\Debug\netcoreapp2.0\Saga.DispatchOrder.csproj.CoreCompileInputs.cache
+C:\dev\repros\NServiceBus.Saga\Saga.DispatchOrder\obj\Debug\netcoreapp2.0\Saga.DispatchOrder.AssemblyInfoInputs.cache
+C:\dev\repros\NServiceBus.Saga\Saga.DispatchOrder\obj\Debug\netcoreapp2.0\Saga.DispatchOrder.AssemblyInfo.cs
+C:\dev\repros\NServiceBus.Saga\Saga.DispatchOrder\obj\Debug\netcoreapp2.0\Saga.DispatchOrder.dll
+C:\dev\repros\NServiceBus.Saga\Saga.DispatchOrder\obj\Debug\netcoreapp2.0\Saga.DispatchOrder.pdb

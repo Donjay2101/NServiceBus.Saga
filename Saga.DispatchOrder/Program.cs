@@ -9,12 +9,10 @@ namespace Saga.DispatchOrder
         {
             Console.Title = "Dispatcher";
             var endpointConfiguration = new EndpointConfiguration("Saga.Dispatcher");
-            endpointConfiguration.UsePersistence<InMemoryPersistence>();
-            endpointConfiguration.UseTransport<RabbitMQTransport>().UseConventionalRoutingTopology().ConnectionString("host=localhost;username=guest;password=guest");
-            endpointConfiguration.PurgeOnStartup(true);
-            endpointConfiguration.EnableInstallers();
-            endpointConfiguration.MakeInstanceUniquelyAddressable("uniqueId");
-            var instance = Endpoint.Start(endpointConfiguration).ConfigureAwait(false).GetAwaiter().GetResult();
+            endpointConfiguration.UsePersistence<LearningPersistence>();
+            endpointConfiguration.UseTransport<LearningTransport>();
+
+            Endpoint.Start(endpointConfiguration).ConfigureAwait(false).GetAwaiter().GetResult();
             Console.Read();
         }
     }

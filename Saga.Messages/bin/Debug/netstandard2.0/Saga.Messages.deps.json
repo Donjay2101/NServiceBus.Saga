@@ -665,14 +665,14 @@
     "NServiceBus/7.0.0-beta0008": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-T2UkyvYktZ5EJedgU9sHbphtOLWANG4/lpNl/+REYu9a776fFD4aV6h0Pd+Ww1DDGPZD/wZVza3/n6Xx33ig9A==",
+      "sha512": "sha512-kuDOvJN60aUt6zZfjDqZPWCfyf9BOtgDNgAovgGuWwV0DjmD/AjktSbxLnL0PwwNiIcsFZwNd71TZAmW3ti4vw==",
       "path": "nservicebus/7.0.0-beta0008",
       "hashPath": "nservicebus.7.0.0-beta0008.nupkg.sha512"
     },
     "NServiceBus.RabbitMQ/5.0.0-beta0031": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-U3uu6LPqUzaZb8+JjmovW+FSG/S9rWtHKB4YbMh4+6qK0AkeWJdBS/HpsbWXZM3aNJoRRvAa1NI03rmLY0GWfw==",
+      "sha512": "sha512-lbUE7AJ6r/T8Hi/4R0JGQdEc00S/1lVYbh2XfG5Cpif34zIw22hMWdzRQi0aPNB8468KOXTQaxzlZFJOfcaEuQ==",
       "path": "nservicebus.rabbitmq/5.0.0-beta0031",
       "hashPath": "nservicebus.rabbitmq.5.0.0-beta0031.nupkg.sha512"
     },
