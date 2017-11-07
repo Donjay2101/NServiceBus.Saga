@@ -1,0 +1,11 @@
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.PlanOrder\bin\Debug\netcoreapp2.0\Saga.PlanOrder.deps.json
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.PlanOrder\bin\Debug\netcoreapp2.0\Saga.PlanOrder.runtimeconfig.json
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.PlanOrder\bin\Debug\netcoreapp2.0\Saga.PlanOrder.runtimeconfig.dev.json
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.PlanOrder\bin\Debug\netcoreapp2.0\Saga.PlanOrder.dll
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.PlanOrder\bin\Debug\netcoreapp2.0\Saga.PlanOrder.pdb
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.PlanOrder\obj\Debug\netcoreapp2.0\Saga.PlanOrder.csprojResolveAssemblyReference.cache
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.PlanOrder\obj\Debug\netcoreapp2.0\Saga.PlanOrder.csproj.CoreCompileInputs.cache
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.PlanOrder\obj\Debug\netcoreapp2.0\Saga.PlanOrder.AssemblyInfoInputs.cache
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.PlanOrder\obj\Debug\netcoreapp2.0\Saga.PlanOrder.AssemblyInfo.cs
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.PlanOrder\obj\Debug\netcoreapp2.0\Saga.PlanOrder.dll
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.PlanOrder\obj\Debug\netcoreapp2.0\Saga.PlanOrder.pdb

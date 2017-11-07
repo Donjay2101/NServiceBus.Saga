@@ -1,0 +1,11 @@
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\Saga.Order.deps.json
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\Saga.Order.runtimeconfig.json
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\Saga.Order.runtimeconfig.dev.json
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\Saga.Order.dll
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\obj\Debug\netcoreapp2.0\Saga.Order.csproj.CoreCompileInputs.cache
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\obj\Debug\netcoreapp2.0\Saga.Order.AssemblyInfoInputs.cache
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\obj\Debug\netcoreapp2.0\Saga.Order.AssemblyInfo.cs
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\Saga.Order.pdb
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\obj\Debug\netcoreapp2.0\Saga.Order.csprojResolveAssemblyReference.cache
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\obj\Debug\netcoreapp2.0\Saga.Order.dll
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\obj\Debug\netcoreapp2.0\Saga.Order.pdb

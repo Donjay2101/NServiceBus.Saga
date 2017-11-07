@@ -1,0 +1,215 @@
+﻿2017-11-03 10:54:42.761 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 10:57:10.967 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 10:57:11.356 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 10:57:12.093 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Test' endpoint will be purged on startup.
+2017-11-03 11:32:39.324 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 11:32:39.685 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 11:32:40.187 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Test' endpoint will be purged on startup.
+2017-11-03 11:34:37.665 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 11:34:38.058 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 11:34:38.973 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Test' endpoint will be purged on startup.
+2017-11-03 11:35:12.293 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 11:35:12.733 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 11:35:13.299 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Test' endpoint will be purged on startup.
+2017-11-03 11:39:19.576 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 11:39:49.671 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 11:39:50.414 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 11:39:51.430 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Test' endpoint will be purged on startup.
+2017-11-03 11:42:49.566 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 11:42:50.233 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 11:42:51.183 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Test' endpoint will be purged on startup.
+2017-11-03 11:46:30.936 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 11:46:31.617 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 11:46:32.935 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 11:49:46.707 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 11:49:47.358 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 11:49:48.600 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 11:50:14.937 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning-uniqueId MessagePump' is now in the armed state
+2017-11-03 11:50:14.937 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning MessagePump' is now in the armed state
+2017-11-03 11:50:14.937 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.Timeouts MessagePump' is now in the armed state
+2017-11-03 11:50:14.937 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.TimeoutsDispatcher MessagePump' is now in the armed state
+2017-11-03 11:50:26.043 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 11:50:26.612 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 11:50:27.666 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 11:50:56.128 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 11:50:56.772 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 11:50:57.592 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 11:56:24.200 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 11:56:24.800 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 11:56:25.687 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 12:04:38.184 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.TimeoutsDispatcher MessagePump' is now in the armed state
+2017-11-03 12:04:38.184 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.Timeouts MessagePump' is now in the armed state
+2017-11-03 12:04:38.185 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning MessagePump' is now in the armed state
+2017-11-03 12:04:38.184 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning-uniqueId MessagePump' is now in the armed state
+2017-11-03 12:04:49.651 INFO  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.TimeoutsDispatcher MessagePump' is now disarmed
+2017-11-03 12:04:49.720 INFO  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning-uniqueId MessagePump' is now disarmed
+2017-11-03 12:04:49.720 INFO  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.Timeouts MessagePump' is now disarmed
+2017-11-03 12:04:49.651 INFO  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning MessagePump' is now disarmed
+2017-11-03 12:05:06.977 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning MessagePump' is now in the armed state
+2017-11-03 12:05:06.978 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.Timeouts MessagePump' is now in the armed state
+2017-11-03 12:05:06.977 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.TimeoutsDispatcher MessagePump' is now in the armed state
+2017-11-03 12:05:07.127 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning-uniqueId MessagePump' is now in the armed state
+2017-11-03 12:21:44.424 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 12:21:45.075 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 12:21:45.895 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 12:22:52.856 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 12:22:53.629 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 12:22:54.728 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 12:23:56.854 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 12:23:57.633 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 12:23:58.753 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 12:24:31.924 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning MessagePump' is now in the armed state
+2017-11-03 12:24:31.924 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning-uniqueId MessagePump' is now in the armed state
+2017-11-03 12:24:31.925 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.Timeouts MessagePump' is now in the armed state
+2017-11-03 12:24:31.924 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.TimeoutsDispatcher MessagePump' is now in the armed state
+2017-11-03 12:25:32.944 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 12:25:33.947 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 12:25:35.234 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 12:25:56.082 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning MessagePump' is now in the armed state
+2017-11-03 12:25:56.086 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning-uniqueId MessagePump' is now in the armed state
+2017-11-03 12:25:56.082 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.Timeouts MessagePump' is now in the armed state
+2017-11-03 12:25:56.089 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.TimeoutsDispatcher MessagePump' is now in the armed state
+2017-11-03 12:26:06.043 INFO  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.Timeouts MessagePump' is now disarmed
+2017-11-03 12:26:06.069 INFO  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning MessagePump' is now disarmed
+2017-11-03 12:26:06.114 INFO  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.TimeoutsDispatcher MessagePump' is now disarmed
+2017-11-03 12:26:06.074 INFO  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning-uniqueId MessagePump' is now disarmed
+2017-11-03 13:31:19.249 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 13:31:20.000 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 13:31:21.172 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 13:32:37.600 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 13:32:38.339 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 13:32:39.420 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 13:39:57.996 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 13:39:58.998 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 13:40:00.409 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 13:41:59.977 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 13:42:01.193 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 13:42:02.638 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 13:43:22.354 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 13:43:23.314 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 13:43:24.746 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 13:47:09.842 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 13:47:10.882 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 13:47:12.293 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 13:57:34.537 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 13:57:35.910 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 13:57:37.425 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 13:58:26.014 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 13:58:27.014 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 13:58:28.467 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 14:01:35.614 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 14:01:36.683 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 14:01:38.068 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 14:03:17.597 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 14:03:18.270 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 14:03:19.494 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 14:04:16.954 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 14:04:21.737 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 14:04:22.908 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 14:06:48.934 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 14:06:49.672 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 14:06:50.951 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 14:07:14.591 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning MessagePump' is now in the armed state
+2017-11-03 14:07:14.594 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning-uniqueId MessagePump' is now in the armed state
+2017-11-03 14:07:14.591 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.Timeouts MessagePump' is now in the armed state
+2017-11-03 14:07:14.592 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.TimeoutsDispatcher MessagePump' is now in the armed state
+2017-11-03 14:07:45.204 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 14:07:46.158 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 14:07:47.823 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 14:09:38.972 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 14:09:39.733 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 14:09:40.948 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 14:10:23.883 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 14:10:24.598 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 14:10:25.754 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 14:24:45.169 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 14:24:46.777 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 14:24:48.225 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 14:25:23.020 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 14:25:24.112 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 14:25:25.611 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 14:33:10.814 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.Timeouts MessagePump' is now in the armed state
+2017-11-03 14:33:10.816 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning MessagePump' is now in the armed state
+2017-11-03 14:33:10.845 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.TimeoutsDispatcher MessagePump' is now in the armed state
+2017-11-03 14:33:10.885 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning-uniqueId MessagePump' is now in the armed state
+2017-11-03 14:33:51.035 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 14:33:52.238 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 14:33:53.886 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 14:36:13.232 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 14:36:14.175 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 14:36:15.284 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 14:38:10.390 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 14:38:11.386 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 14:38:12.969 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 14:44:14.577 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 14:44:15.527 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 14:44:17.080 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 16:53:26.252 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 16:53:27.187 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 16:53:28.945 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 17:04:50.605 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 17:04:51.761 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 17:04:53.017 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 17:11:11.083 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 17:11:12.458 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 17:11:14.294 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 17:12:27.294 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 17:12:28.702 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 17:12:30.287 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 17:49:56.893 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 17:51:02.601 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 17:51:03.721 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 17:51:05.561 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 17:54:16.097 INFO  DefaultFactory Logging to 'C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Order\bin\Debug\netcoreapp2.0\' with level Info
+2017-11-03 17:54:17.296 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2017-11-01'.
+
+2017-11-03 17:54:18.744 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Saga.Planning' endpoint will be purged on startup.
+2017-11-03 17:54:42.549 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.TimeoutsDispatcher MessagePump' is now in the armed state
+2017-11-03 17:54:42.549 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning MessagePump' is now in the armed state
+2017-11-03 17:54:42.549 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning-uniqueId MessagePump' is now in the armed state
+2017-11-03 17:54:42.549 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.Timeouts MessagePump' is now in the armed state
+2017-11-03 17:54:52.148 INFO  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.TimeoutsDispatcher MessagePump' is now disarmed
+2017-11-03 17:54:52.139 INFO  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning-uniqueId MessagePump' is now disarmed
+2017-11-03 17:54:52.148 INFO  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning MessagePump' is now disarmed
+2017-11-03 17:54:52.148 INFO  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Saga.Planning.Timeouts MessagePump' is now disarmed

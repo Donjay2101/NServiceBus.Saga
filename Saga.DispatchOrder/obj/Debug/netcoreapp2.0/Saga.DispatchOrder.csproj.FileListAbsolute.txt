@@ -1,0 +1,13 @@
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.DispatchOrder\bin\Debug\netcoreapp2.0\Saga.DispatchOrder.deps.json
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.DispatchOrder\bin\Debug\netcoreapp2.0\Saga.DispatchOrder.runtimeconfig.json
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.DispatchOrder\bin\Debug\netcoreapp2.0\Saga.DispatchOrder.runtimeconfig.dev.json
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.DispatchOrder\bin\Debug\netcoreapp2.0\Saga.DispatchOrder.dll
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.DispatchOrder\bin\Debug\netcoreapp2.0\Saga.DispatchOrder.pdb
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.DispatchOrder\obj\Debug\netcoreapp2.0\Saga.DispatchOrder.csprojResolveAssemblyReference.cache
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.DispatchOrder\obj\Debug\netcoreapp2.0\Saga.DispatchOrder.csproj.CoreCompileInputs.cache
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.DispatchOrder\obj\Debug\netcoreapp2.0\Saga.DispatchOrder.AssemblyInfoInputs.cache
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.DispatchOrder\obj\Debug\netcoreapp2.0\Saga.DispatchOrder.AssemblyInfo.cs
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.DispatchOrder\obj\Debug\netcoreapp2.0\Saga.DispatchOrder.dll
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.DispatchOrder\obj\Debug\netcoreapp2.0\Saga.DispatchOrder.pdb
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.DispatchOrder\bin\Debug\netcoreapp2.0\Saga.Messages.dll
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.DispatchOrder\bin\Debug\netcoreapp2.0\Saga.Messages.pdb

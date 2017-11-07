@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "b5616fe62ca481ece85bec2a93d2c78628df9f03"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Saga.Order/1.0.0": {
+        "dependencies": {
+          "NServiceBus": "6.4.2"
+        },
+        "runtime": {
+          "Saga.Order.dll": {}
+        }
+      },
+      "NServiceBus/6.4.2": {
+        "runtime": {
+          "lib/net452/NServiceBus.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Saga.Order/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NServiceBus/6.4.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7CuuWg6nCr96GPQxyThtFcw5e44LQWdvq/rIaVcKH84khmOc8fPo1oxo4Sw2yYgmeD7+YUSChjKi74ekuBzNxQ==",
+      "path": "nservicebus/6.4.2",
+      "hashPath": "nservicebus.6.4.2.nupkg.sha512"
+    }
+  }
+}

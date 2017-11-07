@@ -1,0 +1,13 @@
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Test\bin\Debug\netcoreapp2.0\Saga.Test.deps.json
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Test\bin\Debug\netcoreapp2.0\Saga.Test.runtimeconfig.json
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Test\bin\Debug\netcoreapp2.0\Saga.Test.runtimeconfig.dev.json
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Test\bin\Debug\netcoreapp2.0\Saga.Test.dll
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Test\bin\Debug\netcoreapp2.0\Saga.Test.pdb
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Test\obj\Debug\netcoreapp2.0\Saga.Test.csprojResolveAssemblyReference.cache
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Test\obj\Debug\netcoreapp2.0\Saga.Test.csproj.CoreCompileInputs.cache
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Test\obj\Debug\netcoreapp2.0\Saga.Test.AssemblyInfoInputs.cache
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Test\obj\Debug\netcoreapp2.0\Saga.Test.AssemblyInfo.cs
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Test\obj\Debug\netcoreapp2.0\Saga.Test.dll
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Test\obj\Debug\netcoreapp2.0\Saga.Test.pdb
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Test\bin\Debug\netcoreapp2.0\Saga.Messages.dll
+C:\Users\deepak_s_mehta\Documents\Visual Studio 2017\Projects\Saga.Test\Saga.Test\bin\Debug\netcoreapp2.0\Saga.Messages.pdb
